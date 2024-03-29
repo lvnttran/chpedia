@@ -1,5 +1,5 @@
 
-=== Thu Feb 22 18:41:16 2024
+=== Tue Feb 20 09:54:56 2024
 
 Packages were changed.
 Update Mode: mergeDefaultDependencies
@@ -40,3 +40,19 @@ The following packages were updated:
   com.unity.collab-proxy from version 2.0.4 to 2.0.7
   com.unity.timeline from version 1.7.4 to 1.7.5
   com.unity.visualscripting from version 1.8.0 to 1.9.0
+
+=== Tue Mar 12 08:55:26 2024
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.editorcoroutines@1.0.0
+
+=== Tue Mar 26 11:57:04 2024
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were added:
+  com.unity.ai.navigation@1.1.4
